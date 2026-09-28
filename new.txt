@@ -1,1 +1,1 @@
-This change is done in github
+i choose to write on new.txt from local repo
