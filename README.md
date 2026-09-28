@@ -1,2 +1,1 @@
-
-This is my Git Phase 1 practice repository.
+I am learning Git through practice.
