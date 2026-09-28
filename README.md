@@ -1,1 +1,1 @@
-I am practicing Git commands.
+I am learning Git through practice.
